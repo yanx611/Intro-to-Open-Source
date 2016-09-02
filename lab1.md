@@ -34,3 +34,8 @@ In this chapter, it talked about a student in RPI was prosecuted because he impr
 <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/22.png" width="200"/>
 <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/23.png" width="200"/>
 </p>
+
+
+##f
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/24.png" width="400"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/25.png" width="400"/>
