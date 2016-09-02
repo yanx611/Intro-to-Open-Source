@@ -37,5 +37,7 @@ In this chapter, it talked about a student in RPI was prosecuted because he impr
 
 
 ##f
-<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/24.png" width="400"/>
-<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/25.png" width="400"/>
+<p align="center">
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/24.png" width="500"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/25.png" width="500"/>
+</p>
