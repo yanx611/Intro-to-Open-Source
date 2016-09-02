@@ -10,5 +10,5 @@ In this chapter, it talked about a student in RPI was prosecuted because he impr
 
 ##e.2 
 <p align="center">
-  <img src="/Users/Etsu/Desktop/1.png" width="350"/>
+  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/1.png" width="350"/>
 </p>
