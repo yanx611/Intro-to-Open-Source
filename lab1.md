@@ -30,6 +30,7 @@ In this chapter, it talked about a student in RPI was prosecuted because he impr
   <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/18.png" width="200"/>
   <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/19.png" width="200"/>
   <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/20.png" width="200"/>
+  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/21.png" width="200"/>
   <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/22.png" width="200"/>
   <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/23.png" width="200"/>
 </p>
