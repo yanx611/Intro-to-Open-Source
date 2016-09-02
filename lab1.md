@@ -10,27 +10,27 @@ In this chapter, it talked about a student in RPI was prosecuted because he impr
 
 ##e.2 e.3
 <p align="center">
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/1.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/2.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/3.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/4.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/5.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/6.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/7.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/8.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/9.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/10.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/11.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/12.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/13.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/14.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/15.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/16.png" width="350"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/17.png" width="350"/>
-  <br>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/18.png" width="200"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/19.png" width="200"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/21.png" width="200"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/22.png" width="200"/>
-  <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/23.png" width="200"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/1.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/2.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/3.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/4.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/5.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/6.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/7.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/8.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/9.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/10.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/11.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/12.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/13.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/14.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/15.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/16.png" width="350"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/17.png" width="350"/>
+<br>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/18.png" width="200"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/19.png" width="200"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/21.png" width="200"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/22.png" width="200"/>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/23.png" width="200"/>
 </p>
