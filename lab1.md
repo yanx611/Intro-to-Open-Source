@@ -12,7 +12,7 @@ In this chapter, it talked about a student in RPI was prosecuted because he impr
 <img src="https://github.com/yanx611/Intro-to-Open-Source/blob/master/Pictures/Lab1/Screenshot%20from%202016-09-02%2016:40:10.png" width="500px">
 
 ##e.2 e.3
-<p align="center">
+<p>
 <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/26.png" width="350"/>
 <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/27.png" width="350"/>
 <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/28.png" width="350"/>
@@ -30,7 +30,7 @@ In this chapter, it talked about a student in RPI was prosecuted because he impr
 
 
 ##f
-<p align="center">
+<p>
 <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/24.png" width="500"/>
 <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/25.png" width="500"/>
 </p>
