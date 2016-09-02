@@ -13,6 +13,7 @@ In this chapter, it talked about a student in RPI was prosecuted because he impr
 
 ##e.2 e.3
 <p>
+<img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/33.png" width="350"/>
 <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/26.png" width="350"/>
 <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/27.png" width="350"/>
 <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/Pictures/Lab1/28.png" width="350"/>
