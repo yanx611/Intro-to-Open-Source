@@ -10,5 +10,5 @@ In this chapter, it talked about a student in RPI was prosecuted because he impr
 
 ##e.2 
 <p align="center">
-  <img src="/Users/Etsu/Desktop/Screen Shot 2016-09-01 at 9.44.08 PM.jpg" width="350"/>
+  <img src="/Users/Etsu/Desktop/1.png" width="350"/>
 </p>
