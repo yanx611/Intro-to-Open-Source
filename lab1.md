@@ -8,7 +8,7 @@
 ##c.3 Write a short paragraph ( 8 to 10 sentences) of what you got out of reading that chapter.
 In this chapter, it talked about a student in RPI was prosecuted because he improved Windows file sharing and a search engine without permission. I think it is helpful to learn something about copyright before starting doing something using a licensed software/program. I do not know if Windows file share or search engine is open source or not, but before starting modifying them, it is necessary to acknowledge the license information before using. In this case, the student was utilizing it for non-profit reason and he did not saying the product belonged to him. Maybe the reason of getting prosecuted was that he did not announce the copyrights initially before sharing it other students. If we need to do something relating to taking other products, we need to look into the copyrights thing carefully to avoid such thing happen. And in addition, we need to understand the identity of the program we are going to use as well.
 
-##e.2 
+##e.2 e.3
 <p align="center">
   <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/1.png" width="350"/>
   <img src="https://github.com/yanx611/IntrotoOpenSource/blob/master/2.png" width="350"/>
