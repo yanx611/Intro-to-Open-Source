@@ -24,3 +24,7 @@ Website | License Present | License
 ---------|:----------|:-------
 https://github.com/kelleyb/swolemon-android | Yes | MIT license 
 http://cloudbench-ide.github.io/cloudbench/ | Yes | Apache 2.0
+https://github.com/Behemyth/Soul-Engine| Yes | GNU GENERAL PUBLIC LICENSE
+https://github.com/YACS-RCOS/yacs | Yes | MIT license
+https://github.com/harrij15/SquareMeals | Yes | BSD 3-Clause LICENSE
+
