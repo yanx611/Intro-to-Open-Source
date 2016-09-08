@@ -5,7 +5,7 @@ When putting codes/programs online, the person will met many problems. By choosi
 
 
 ###3. Why they SHOULDN'T use a project that doesn't have an explicit license
-As long as the project does not have a license, the users of the projects would have many indeterminancy to use the projects. The users will not have the ability to know whether they can share the projects to others, whether they can use it commercially and if they can use the patent in this projects. So using a project that does not have an explicit license is unsafe. 
+As long as the project does not have a license, the users of the projects would have many indeterminancy when using the projects. The users will not have the ability to know whether they can share the projects to others, whether they can use it commercially and if they can use the patent in this projects. So using a project that does not have an explicit license is unsafe. 
 
 ###4. claims on Why the Web beat Gopher
 Personally I agree with the author. Open Source Software does not only serve for those users. The inspiration of a person or a single group sometimes is not enough for making critical progress. Though the technique for Gopher was indeed not so up-to-date at that time, the failure to sharing its complete concepts/characteristics to the users/potential users was one of the reason. 
