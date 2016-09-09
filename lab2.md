@@ -13,7 +13,8 @@ Personally I agree with the author. Open Source Software does not only serve for
 ###5. .NET Core uses MIT license
 .NET is a language for developing applications and games on Windows, Mac and Linux. The users who use it might need some customisation if they want to their own programs. And also, the permission for commercial use is also needed, as the that is how the developing tool survives. In addition, Microsoft does not responsible for how people using this app. MIT license includes the permission of commercial use, distribution, modification and private use. It is certainly great for a developing app. 
 
-###7. For the developer, I think Apache license is more suitable for them as the license because it protect the patent of the program. For company, LGPL might be more matched. It says it applies to most of the libraries as it allows reverse engineering to debug and relink the program. Furthermore, it holds patent for the company as well.For the common product, the GNU license works for it. 
+###7.
+For the developer, I think Apache license is more suitable for them as the license because it protect the patent of the program. For company, LGPL might be more matched. It says it applies to most of the libraries as it allows reverse engineering to debug and relink the program. Furthermore, it holds patent for the company as well.For the common product, the GNU license works for it. 
 
 ###9.
 
