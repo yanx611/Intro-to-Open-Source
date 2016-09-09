@@ -37,5 +37,6 @@ In this chapter, it talked about a student in RPI was prosecuted because he impr
 </p>
 
 ##g Reflection
+For the most important part, I understand what is open source software.
 In this activity, I did practice in regular expression on Regex. I learnt regular expression in Foundation of Computer Science last semester, it is a good review. And I also did the introductory questions, as I did not remember all the signs to use, the practice solid my knowledge regular expression. 
 In Blockly, it is really interesting to do the puzzle as I need to consider many possibilities. I initially cannot complete the puzzle if I just using one if/else. I tried many times to get the correct answer. The process was enjoyable. 
