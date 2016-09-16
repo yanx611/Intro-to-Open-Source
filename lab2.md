@@ -16,7 +16,12 @@ Personally I agree with the author. Open Source Software does not only serve for
 ###7.
 For the developer, I think Apache license is more suitable for them as the license because it protect the patent of the program. For company, LGPL might be more matched. It says it applies to most of the libraries as it allows reverse engineering to debug and relink the program. Furthermore, it holds patent for the company as well.For the common product, the GNU license works for it. 
 
+###8.
+https://github.com/yanx611/BOOKGO/blob/master/LICENSE
+
 ###9.
+We will create a website/ an application for exchanging/selliing used textbooks online. Our main audience are RPI students and staffs as it is much safe to exchange within a school than anywhere else. We choose MIT license. Because MIT license is simple and permmisive. If it is possible, we would like to improve our project together with other developers. And also, we hope our project can benefit others. That were the reason we choose MIT license. 
+
 
 ###10.
 Website | License Present | License
