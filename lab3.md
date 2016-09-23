@@ -11,3 +11,4 @@ Link: https://github.com/yanx611/lab3part1 <br />
 ### Part 3 <br />
 4. Link: https://github.com/yanx611/courseproject <br />
 5. Link: https://github.com/asingh9/Story-Fall2016
+https://github.com/asingh9/Story-Fall2016/blob/table7/Collaborators.md
