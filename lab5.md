@@ -1,0 +1,11 @@
+1.<a href = "https://github.com/yanx611/Intro-to-Open-Source/blob/master/Resources/lab5/Step1">Step1</a>
+<img src="https://github.com/yanx611/Intro-to-Open-Source/blob/master/Pictures/lab5/step1.png" />
+2. <a href = "https://github.com/yanx611/Intro-to-Open-Source/blob/master/Resources/lab5/Step2">Step2</a>
+<img src="https://github.com/yanx611/Intro-to-Open-Source/blob/master/Pictures/lab5/step2.png" />
+3.  <a href = "https://github.com/yanx611/Intro-to-Open-Source/blob/master/Resources/lab5/Step3">Step3</a>
+<img src="https://github.com/yanx611/Intro-to-Open-Source/blob/master/Pictures/lab5/step3.png" />
+<img src="https://github.com/yanx611/Intro-to-Open-Source/blob/master/Pictures/lab5/step3 - 2.png" />
+4.  <a href = "https://github.com/yanx611/Intro-to-Open-Source/blob/master/Resources/lab5/Step4">Step4</a>
+<img src="https://github.com/yanx611/Intro-to-Open-Source/blob/master/Pictures/lab5/step4.png" />
+5.  <a href = "https://github.com/yanx611/Intro-to-Open-Source/blob/master/Resources/lab5/Step5">Step5</a>
+<img src="https://github.com/yanx611/Intro-to-Open-Source/blob/master/Pictures/lab5/step5.png" />

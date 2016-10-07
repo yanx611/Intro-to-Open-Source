@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Etsu/Desktop/Tutorial/Step1/tutorial.cxx
+TutorialConfig.h
+/Users/Etsu/Desktop/Tutorial/Step1/TutorialConfig.h
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+TutorialConfig.h
+

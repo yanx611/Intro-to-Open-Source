@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Etsu/Desktop/Tutorial/Step3/MathFunctions/MathFunctions.h
+
+/Users/Etsu/Desktop/Tutorial/Step3/MathFunctions/mysqrt.cxx
+MathFunctions.h
+/Users/Etsu/Desktop/Tutorial/Step3/MathFunctions/MathFunctions.h
+stdio.h
+-
+

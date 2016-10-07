@@ -1,0 +1,140 @@
+Start testing: Oct 06 20:12 EDT
+----------------------------------------------------------
+1/6 Testing: TutorialRuns
+1/6 Test: TutorialRuns
+Command: "/Users/Etsu/Desktop/Tutorial/Step3/build-dir/Tutorial" "25"
+Directory: /Users/Etsu/Desktop/Tutorial/Step3/build-dir
+"TutorialRuns" start time: Oct 06 20:12 EDT
+Output:
+----------------------------------------------------------
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TutorialRuns" end time: Oct 06 20:12 EDT
+"TutorialRuns" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: TutorialComp25
+2/6 Test: TutorialComp25
+Command: "/Users/Etsu/Desktop/Tutorial/Step3/build-dir/Tutorial" "25"
+Directory: /Users/Etsu/Desktop/Tutorial/Step3/build-dir
+"TutorialComp25" start time: Oct 06 20:12 EDT
+Output:
+----------------------------------------------------------
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[25 is 5
+]
+"TutorialComp25" end time: Oct 06 20:12 EDT
+"TutorialComp25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: TutorialNegative
+3/6 Test: TutorialNegative
+Command: "/Users/Etsu/Desktop/Tutorial/Step3/build-dir/Tutorial" "-25"
+Directory: /Users/Etsu/Desktop/Tutorial/Step3/build-dir
+"TutorialNegative" start time: Oct 06 20:12 EDT
+Output:
+----------------------------------------------------------
+The square root of -25 is 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[-25 is 0
+]
+"TutorialNegative" end time: Oct 06 20:12 EDT
+"TutorialNegative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: TutorialSmall
+4/6 Test: TutorialSmall
+Command: "/Users/Etsu/Desktop/Tutorial/Step3/build-dir/Tutorial" "0.0001"
+Directory: /Users/Etsu/Desktop/Tutorial/Step3/build-dir
+"TutorialSmall" start time: Oct 06 20:12 EDT
+Output:
+----------------------------------------------------------
+Computing sqrt of 0.0001 to be 0.50005
+Computing sqrt of 0.0001 to be 0.250125
+Computing sqrt of 0.0001 to be 0.125262
+Computing sqrt of 0.0001 to be 0.0630304
+Computing sqrt of 0.0001 to be 0.0323084
+Computing sqrt of 0.0001 to be 0.0177018
+Computing sqrt of 0.0001 to be 0.0116755
+Computing sqrt of 0.0001 to be 0.0101202
+Computing sqrt of 0.0001 to be 0.0100007
+Computing sqrt of 0.0001 to be 0.01
+The square root of 0.0001 is 0.01
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[0.0001 is 0.01
+]
+"TutorialSmall" end time: Oct 06 20:12 EDT
+"TutorialSmall" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: TutorialUsage
+5/6 Test: TutorialUsage
+Command: "/Users/Etsu/Desktop/Tutorial/Step3/build-dir/Tutorial"
+Directory: /Users/Etsu/Desktop/Tutorial/Step3/build-dir
+"TutorialUsage" start time: Oct 06 20:12 EDT
+Output:
+----------------------------------------------------------
+/Users/Etsu/Desktop/Tutorial/Step3/build-dir/Tutorial Version 1.0
+Usage: /Users/Etsu/Desktop/Tutorial/Step3/build-dir/Tutorial number
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[Usage:.*number
+]
+"TutorialUsage" end time: Oct 06 20:12 EDT
+"TutorialUsage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: TutorialComp-25
+6/6 Test: TutorialComp-25
+Command: "/Users/Etsu/Desktop/Tutorial/Step3/build-dir/Tutorial" "-25"
+Directory: /Users/Etsu/Desktop/Tutorial/Step3/build-dir
+"TutorialComp-25" start time: Oct 06 20:12 EDT
+Output:
+----------------------------------------------------------
+The square root of -25 is 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[-25 is 0
+]
+"TutorialComp-25" end time: Oct 06 20:12 EDT
+"TutorialComp-25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 06 20:12 EDT
