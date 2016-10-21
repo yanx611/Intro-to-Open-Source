@@ -60,3 +60,4 @@ the current branches:master
 ## Python Unittest
 <a href = "https://github.com/yanx611/Intro-to-Open-Source/blob/master/Resources/lab6/markdown.py">Markdown.py</a>
 <a href = "https://github.com/yanx611/Intro-to-Open-Source/blob/master/Resources/lab6/test_markdown_unittest.py">Test markdown unit test</a>
+<img src = "https://github.com/yanx611/Intro-to-Open-Source/blob/master/Pictures/lab6/testresults.png" alt = "testresults" / >
