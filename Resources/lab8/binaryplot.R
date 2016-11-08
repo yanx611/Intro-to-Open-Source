@@ -7,9 +7,9 @@ binary[,col_names]
 bny <- binary
 rules <- apriori(bny, parameter = list(support = 0.08, confidence = 0.09))
 inspect(rules)
+source("http://bioconductor.org/biocLite.R")
+biocLite("Rgraphviz")
 plot(rules)
 plot(rules,method="grouped")
 plot(rules,method="graph")
 plot(rules,method="graph", control = list(type="items"))
-source("http://bioconductor.org/biocLite.R")
-biocLite("Rgraphviz")
