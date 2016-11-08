@@ -5,7 +5,7 @@ names(binary)
 binary[,col_names] <- lapply(binary[,col_names], factor)
 binary[,col_names]
 bny <- binary
-rules <- apriori(bny, parameter = list(support = 0.08, confidence = 0.09))
+rules <- apriori(bny, parameter = list(support = 0.01, confidence = 0.09))
 inspect(rules)
 source("http://bioconductor.org/biocLite.R")
 biocLite("Rgraphviz")
